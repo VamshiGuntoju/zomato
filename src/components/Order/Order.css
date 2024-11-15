@@ -1,0 +1,15 @@
+.order{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 120px;
+}
+.biriyani{
+    width: 300px;
+    display: inline-block;
+}
+.ordering{
+    position: relative;
+    top: -123px;
+    left: -87px;
+}

@@ -1,2 +1,1 @@
-# zomato
-Hello Github How Are you My name is Vamshi
+This project was created with [Create New App](https://github.com/qodesmith/create-new-app).
